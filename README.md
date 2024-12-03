@@ -9,5 +9,5 @@ A lightweight packet sniffer for **Windows** and **Linux** that captures **Layer
 - Saves packets to **PCAP** files for analysis.
 
 ## Dependencies:
-- **Windows**: Requires **Npcap**.
+- **Windows**: Requires **Npcap. Scapy**.
 - **Linux**: Requires **Scapy**.
